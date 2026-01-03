@@ -1,6 +1,8 @@
 # DRDmSR
 
-DRDmSR is the official implementation of the paper "Joint Demosaicking and Super Resolution for SFA Images".
+DRDmSR is the official implementation of the paper Joint Demosaicking and Super Resolution for SFA Images.
+
+Paper: [Joint Demosaicking and Super Resolution for SFA Images](https://ieeexplore.ieee.org/abstract/document/10838565)
 
 Overview
 - **What:** A PyTorch implementation that jointly performs demosaicking and super-resolution for single-frame active (SFA) images.
